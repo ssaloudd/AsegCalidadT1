@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requerimientos
 
-- [Node.js y npm](https://nodejs.org/) (v16 o superior recomendado) \
+- [Node.js y npm](https://nodejs.org/) (v16 o superior recomendado)
 - [Git](https://git-scm.com/)
 
 ## Instalación
